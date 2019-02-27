@@ -1,7 +1,7 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Liri is a language interpretation and recognition interface. It works by taking in command line four different commands and outputs the information relevant to the commands.",
   "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/rigelselmani/liri-node-app.git"
   },
+  "keywords": [
+    "Amerika123"
+  ],
   "author": "rigel",
   "license": "ISC",
   "bugs": {
