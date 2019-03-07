@@ -1,5 +1,4 @@
-# liri-node-app
-
+liri-node-app
 Liri is a language interpretation and recognition interface. It works by taking in command line four different commands and outputs the information relevant to the commands.
 
 Command 1: concert-this
@@ -50,4 +49,9 @@ Command 4: do-what-it-says
 *Here, the user enters this command followed to output the information in the random.txt file.
 
 *In this case, the function will provide spotify information about the song "I Want it that Way."
-Images in ReadME
+
+
+images 
+
+
+
